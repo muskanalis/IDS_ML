@@ -4,7 +4,7 @@ This research presents an optimized machine learning framework using a hybrid hi
 Data privacy is essential in the financial sector to protect client’s sensitive information, prevent financial fraud, ensure regulatory compliance, and safeguard intellectual property. It has become
 a challenging task due to the increase in usage of the internet and digital transactions. Hence, I worked on the project- Hybrid ML Framework for DDoS Detection project. It presents a hierarchical ML-based hyperparameter-optimization approach for classifying intrusions in a network.
 
-Relating DDoS Attacks to Current Indian Cyber Affairs:
+This project is related to DDoS Attacks to Current Indian Cyber Affairs:
 India, in 2024–2025, has seen a sharp rise in cyberattacks, particularly Distributed Denial of Service (DDoS) attacks that disrupted government portals, financial institutions, and critical infrastructure services. Your project, which proposes a hierarchical machine learning-based intrusion detection system (IDS), is highly relevant to these real-time national concerns.
 
 Recent Real-World Incidents in India:
